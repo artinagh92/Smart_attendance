@@ -1,0 +1,39 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# IDE
+
+.idea/
+.vscode/
+
+# Database
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Excel temporary files
+
+~$*.xlsx
+
+# Generated reports
+
+*.xlsx
+
+# Build files
+
+build/
+dist/
+
+# Environment variables
+
+.env
